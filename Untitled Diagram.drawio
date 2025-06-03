@@ -478,6 +478,9 @@
         <mxCell id="tp-i8unL08h0Dd-6cSo7-3" value="4 - آیا پروفایل همه باید یکی باشد یا جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="-950" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tp-i8unL08h0Dd-6cSo7-4" value="6 - آیا روشی باید باشد تا کد دانشجو به صورت اتوماتیک نام جایگذاری شود؟ یا باید دستی وارد کنیم؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-780" width="450" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
