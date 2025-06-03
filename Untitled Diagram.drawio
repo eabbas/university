@@ -462,7 +462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aGva_LOfyqjumgVp6UVZ" name="Page-2">
-    <mxGraphModel dx="2594" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2303" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -485,7 +485,7 @@
           <mxGeometry x="180" y="-780" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tp-i8unL08h0Dd-6cSo7-5" value="8 - وضعیت های دانشجو را اگر در تیبل به صورت کالمن استاتس بنویسیم&amp;nbsp; بهتر و اصولی تر و بهینه تر است یا هر وضعیت را در یک کالمن قرار دهیم؟ میدانیم که وضعیت های دانشجو ثابت هستند(فعال ، غیر فعال ، انتقالی ، مهمان ، مرخصی)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-690" width="990" height="30" as="geometry" />
+          <mxGeometry x="-190" y="-270" width="990" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
