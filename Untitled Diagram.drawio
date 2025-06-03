@@ -462,7 +462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aGva_LOfyqjumgVp6UVZ" name="Page-2">
-    <mxGraphModel dx="872" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,6 +471,9 @@
         </mxCell>
         <mxCell id="TnMtzpWGOdvM61ozv-Sk-1" value="1-status یا به صورت کالم باشد یا به صورت تیبل جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-1090" width="820" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TnMtzpWGOdvM61ozv-Sk-3" value="3-تیبل ثبت نمرات باید جداگانه باشد یا نمرات در تیبل دروس قرار بگیرد؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-990" width="820" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
