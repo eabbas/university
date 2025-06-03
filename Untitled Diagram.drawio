@@ -527,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-c_WO3wDBYWJPiP-5ioc-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;سوالات بخش create student&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=#A50040;align=center;fillColor=#d80073;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#ffffff;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-1110" width="330" height="30" as="geometry" />
+          <mxGeometry x="270" y="-1110" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
