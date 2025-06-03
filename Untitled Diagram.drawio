@@ -475,6 +475,9 @@
         <mxCell id="TnMtzpWGOdvM61ozv-Sk-3" value="3-تیبل ثبت نمرات باید جداگانه باشد یا نمرات در تیبل دروس قرار بگیرد؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-990" width="820" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tp-i8unL08h0Dd-6cSo7-3" value="4 - آیا پروفایل همه باید یکی باشد یا جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-950" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
