@@ -78,7 +78,7 @@
           <mxGeometry x="40" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tWdZxZ73Hx83Nsvcw7yL-2" value="اینو اون نوشته" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="150" height="70" as="geometry" />
+          <mxGeometry x="40" y="560" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TkIrCwtpePajjgHaPP_V-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="30" height="60" as="geometry" />
