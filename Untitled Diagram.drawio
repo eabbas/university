@@ -462,66 +462,66 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aGva_LOfyqjumgVp6UVZ" name="Page-2">
-    <mxGraphModel dx="1722" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tp-i8unL08h0Dd-6cSo7-1" value="2 - رزرو غذا در مشخصات دانشجو باشد یا در منو" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-1050" width="220" height="30" as="geometry" />
+          <mxGeometry x="290" y="-1030" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TnMtzpWGOdvM61ozv-Sk-1" value="1-status یا به صورت کالم باشد یا به صورت تیبل جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1090" width="820" height="30" as="geometry" />
+          <mxGeometry x="10" y="-1060" width="820" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TnMtzpWGOdvM61ozv-Sk-3" value="3-تیبل ثبت نمرات باید جداگانه باشد یا نمرات در تیبل دروس قرار بگیرد؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-1010" width="820" height="30" as="geometry" />
+          <mxGeometry x="10" y="-990" width="820" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-1" value="5-آیا موقع ایجاد دانشجو کل دانشگاه هارا باید نمایش دهیم&amp;nbsp; تا از بین آنها انتخاب کنیم یا دانشگاهی که دانشجو در آن&amp;nbsp; قبول شده را در دست داشته باشیم تا از طریق آن دانشکده و رشته های مربوطه&amp;nbsp; را بیاوریم" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-920" width="820" height="30" as="geometry" />
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-1" value="5-آیا موقع ایجاد دانشجو کل دانشگاه هارا باید نمایش دهیم&amp;nbsp; تا از بین آنها انتخاب کنیم یا دانشگاهی که دانشجو در آن&amp;nbsp; قبول شده را در دست داشته باشیم تا از طریق آن دانشکده و رشته های مربوطه&amp;nbsp; را بیاوریم" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-910" width="820" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tp-i8unL08h0Dd-6cSo7-3" value="4 - آیا پروفایل همه باید یکی باشد یا جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-970" width="220" height="30" as="geometry" />
+        <mxCell id="tp-i8unL08h0Dd-6cSo7-3" value="4 - آیا پروفایل همه باید یکی باشد یا جداگانه" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-950" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tp-i8unL08h0Dd-6cSo7-4" value="6 - آیا روشی باید باشد تا کد دانشجو به صورت اتوماتیک نام جایگذاری شود؟ یا باید دستی وارد کنیم؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-880" width="450" height="30" as="geometry" />
+        <mxCell id="tp-i8unL08h0Dd-6cSo7-4" value="6 - آیا روشی باید باشد تا کد دانشجو به صورت اتوماتیک نام جایگذاری شود؟ یا باید دستی وارد کنیم؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="175" y="-860" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-2" value="7-آیا نوشتن همه این اطلاعات در داخل تیبل بهینه است یا باید چندین تیبل واسط داشته باشیم؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-840" width="820" height="30" as="geometry" />
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-2" value="7-آیا نوشتن همه این اطلاعات در داخل تیبل بهینه است یا باید چندین تیبل واسط داشته باشیم؟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-820" width="820" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tp-i8unL08h0Dd-6cSo7-5" value="8 - وضعیت های دانشجو را اگر در تیبل به صورت کالمن استاتس بنویسیم&amp;nbsp; بهتر و اصولی تر و بهینه تر است یا هر وضعیت را در یک کالمن قرار دهیم؟ میدانیم که وضعیت های دانشجو ثابت هستند(فعال ، غیر فعال ، انتقالی ، مهمان ، مرخصی)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-270" width="990" height="30" as="geometry" />
+        <mxCell id="tp-i8unL08h0Dd-6cSo7-5" value="8 - وضعیت های دانشجو را اگر در تیبل به صورت کالمن استاتس بنویسیم&amp;nbsp; بهتر و اصولی تر و بهینه تر است یا هر وضعیت را در یک کالمن قرار دهیم؟ میدانیم که وضعیت های دانشجو ثابت هستند(فعال ، غیر فعال ، انتقالی ، مهمان ، مرخصی)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40.5" y="-710" width="770" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-27" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="146" y="-800" width="559" height="33" as="geometry" />
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-27" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="146" y="-770" width="559" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-27">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="u3Ide5IAxBJFTQdSU28L-27" vertex="1">
           <mxGeometry width="559" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-50" value="id" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-50" value="id" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-29" value="term" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-29" value="term" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry x="93" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-30" value="average" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-30" value="average" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry x="186" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-31" value="stu_id" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-31" value="stu_id" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry x="280" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-48" value="ok_unit_num" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-48" value="ok_unit_num" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry x="373" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u3Ide5IAxBJFTQdSU28L-49" value="status" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="u3Ide5IAxBJFTQdSU28L-28">
+        <mxCell id="u3Ide5IAxBJFTQdSU28L-49" value="status" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" parent="u3Ide5IAxBJFTQdSU28L-28" vertex="1">
           <mxGeometry x="466" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
