@@ -46,7 +46,7 @@
         <mxCell id="rSivemhQuNPMb7C5Gt2T-1" value="Object" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="270" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rSivemhQuNPMb7C5Gt2T-2" value="اینو من نوشتم" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rSivemhQuNPMb7C5Gt2T-2" value="نوشته پاک شد" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="85" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
